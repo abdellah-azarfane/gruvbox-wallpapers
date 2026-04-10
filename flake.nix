@@ -27,9 +27,7 @@
 
     subdirs = {
       default = "wallpapers";
-      anime = "wallpapers/anime";
       brands = "wallpapers/brands";
-      game = "wallpapers/game";
       minimalistic = "wallpapers/minimalistic";
       mix = "wallpapers/mix";
       painting = "wallpapers/painting";
