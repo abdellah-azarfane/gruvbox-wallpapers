@@ -1,6 +1,6 @@
 # Gruvbox Wallpapers
 A place where to find gruvbox theme wallpapers.
-[https://gruvbox-wallpapers.pages.dev/](https://gruvbox-wallpapers.pages.dev/ 'Gruvbox Wallpapers')
+[https://wallpapers.pages.dev/](https://wallpapers.pages.dev/ 'Wallpapers')
 ## Contributions
 
 1. Fork the project.
@@ -26,7 +26,7 @@ I tend to accept any contributions, but let's keep the site with images that mat
    
 ```nix
 inputs = {
-  gruvbox-wallpapers.url = "github:AngelJumbo/gruvbox-wallpapers";
+  wallpapers.url = "github:abdellah-azarfane/wallpapers";
   # ...
 };
 ```
