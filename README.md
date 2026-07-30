@@ -1,23 +1,4 @@
-# Gruvbox Wallpapers
-A place where to find gruvbox theme wallpapers.
-[https://wallpapers.pages.dev/](https://wallpapers.pages.dev/ 'Wallpapers')
-## Contributions
-
-1. Fork the project.
-2. Add the wallpapers that you have in their respective folder.
-3. For light variants: Place the light-themed wallpapers in a light/ subfolder within the category.
-3. Make a pull request.
-
-> [!CAUTION]
-> - Use files under 25mb
-> - Avoid spaces in names
-
-> [!TIP]
-> If your wallpaper does not fit in any of the folders we can debate the creation of a new one.
-
-I tend to accept any contributions, but let's keep the site with images that match or look good with the gruvbox's color scheme :').
-
-
+#  Wallpapers
 ## Nix package
 
 1. **Use [nix flakes](https://wiki.nixos.org/wiki/Flakes)**:
